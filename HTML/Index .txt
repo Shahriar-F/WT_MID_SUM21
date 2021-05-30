@@ -1,0 +1,19 @@
+<html>
+<head>
+</head>
+<body>
+<img height="350px" width="350px" src="IMG_20180424_232508.jpg">
+<h1>Name:FAHIM, SHAHRIAR ALAM</h1>
+<h1>Email:123@EMAIL.COM</h1>
+<h1>Address:DHAKA, BANGLADESH</h1>
+<h1>Phone:01234567890</h1>
+
+<a href="another.html">go to another page</a>
+<a target="_blank" href="https://github.com/Shahriar-F/WT_MID_SUM21"></a>
+
+
+
+
+
+</body>
+</html>
